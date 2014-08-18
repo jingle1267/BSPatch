@@ -1,0 +1,1 @@
+bsdiff iReader1.6.2.0(v35).apk iReader1.8.0.1(v40).apk update.patch
